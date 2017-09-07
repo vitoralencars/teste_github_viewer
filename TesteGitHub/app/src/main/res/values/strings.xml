@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">TesteGitHub</string>
+
+    <!--SEARCH ACTIVITY-->
+    <string name="github_viewer">GitHub Viewer</string>
+    <string name="search">Search</string>
+
+    <!--PROFILEREPOS ACTIVITY-->
+    <string name="not_identified_language">Linguagem não identificada</string>
+
+    <!--ALERTAS-->
+    <string name="no_connection_title">Ocorreu um erro de rede</string>
+    <string name="no_connection_message">Verifique sua conexão com a Internet e tente novamente mais tarde.</string>
+    <string name="not_found_title">Usuário não encontrado</string>
+    <string name="not_found_message">Favor inserir outro nome.</string>
+
+    <!--UTIL-->
+    <string name="ok">OK</string>
+
+</resources>
